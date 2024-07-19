@@ -1,0 +1,6 @@
+{
+    "percentage": 0.46,
+    "labels": ["Need Improvement", "Developing", "Sharpening", "Employable", "Good Progress"],
+    "colors": ["#FF0000", "yellow", "#FFFF00", "#90EE90", "#008000"],
+    "gradientColors": [["#FF5733", "#FFA500"]]
+  }
